@@ -72,3 +72,5 @@ The application serves as both a practical communication tool and a learning res
 The complete source code is organized in a standard React project structure with clear separation of concerns between components, styles, and application logic. The implementation emphasizes readability and maintainability while delivering a smooth user experience.
 
 #OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/fc07dfa6-068b-4806-b0d6-a6cb50c50028)
